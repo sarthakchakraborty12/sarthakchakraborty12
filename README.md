@@ -12,6 +12,11 @@ B.Tech (CST) '23-'27 @UEM Kolkata<br>UX Intern @Levuity<br>Programmer, UI/UX Des
 ![](https://nirzak-streak-stats.vercel.app/?user=sarthakchakraborty12&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchakraborty12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📊 LeetCode Stats:
+
+[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sarthakchakraborty12&theme=dark)](https://leetcode.com/sarthakchakraborty12/)
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sarthakchakraborty12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
