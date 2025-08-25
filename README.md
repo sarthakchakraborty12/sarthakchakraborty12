@@ -13,8 +13,7 @@ B.Tech (CST) '23-'27 @UEM Kolkata<br>UX Intern @Levuity<br>Programmer, UI/UX Des
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sarthakchakraborty12&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 # 📊 LeetCode Stats:
-
-[![LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sarthakchakraborty12&theme=dark)](https://leetcode.com/sarthakchakraborty12/)
+[![sarthakchakraborty12's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=sarthakchakraborty12&theme=Mist)](https://github.com/JeremyTsaii/leetcode-stats)
 
 
 ### 🔝 Top Contributed Repo
