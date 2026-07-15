@@ -11,9 +11,6 @@ B.Tech (CST) '23-'27 @UEM Kolkata<br>UX Intern @Levuity<br>Programmer, UI/UX Des
 [![GitHub Streak](https://streak-stats.demolab.com?user=sarthakchakraborty12&theme=sakura-x&border_radius=41.5&date_format=j%20M%5B%20Y%5D&card_width=518)](https://git.io/streak-stats)
 
 # 📊 Coding Platforms Stats:
-<br>
-## LeetCode
-<br>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/sarthakchakraborty12?theme=dark&font=Space%20Grotesk)
 
 
