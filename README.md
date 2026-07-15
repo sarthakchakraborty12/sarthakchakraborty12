@@ -17,7 +17,4 @@ B.Tech (CST) '23-'27 @UEM Kolkata<br>UX Intern @Levuity<br>Programmer, UI/UX Des
 ![HackerRank Stats](https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=sarthakc12)
 
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sarthakchakraborty12&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
